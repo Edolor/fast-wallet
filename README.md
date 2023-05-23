@@ -18,4 +18,4 @@ edolor [https://ng.linkedin.com/in/aghoghomena-akasukpe](https://ng.linkedin.com
 
 The program is under the Apache 2.0 license Please Note some third-party frameworks my contain different linceses
 
-Copyright (c) 2021 edolor and GeorginaAwani. All rights reserved
+Copyright (c) 2021 edolor. All rights reserved
